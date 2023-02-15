@@ -65,7 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     onPressed: () => {
                       
                     },
-                    backgroundColor: Color(0xFF0c54fc),
+                    backgroundColor: const Color(0xFF0c54fc),
                     child: const Icon(Icons.add, size: 50),
                   ),
                   floatingActionButtonLocation:
